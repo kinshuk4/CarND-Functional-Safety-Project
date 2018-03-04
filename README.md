@@ -44,6 +44,6 @@ There are also open source word processors such as [LibreOffice](https://www.lib
 ### Submitting
 For your project submission, please export your work into pdf files. This will ensure that reviewers can review your work no matter what word processing and spreadsheet software you used.
 
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+**References**
 
+https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/6dc3d743-2b0f-4ae6-97b7-e2ff866f17ef/lessons/68973942-d5a3-4b4c-8832-2897af7c75d3/concepts/8a123692-5309-4b8c-b197-f2bed15b997d
